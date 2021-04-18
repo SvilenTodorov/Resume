@@ -1,0 +1,141 @@
+body {
+  background-color: #126e82;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #f8ede3;
+  font-size: 5.625rem;
+  line-height: 2;
+  margin-top: 50px auto 50px auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #f8ede3;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  margin: 10px 20px;
+}
+
+a:hover {
+color: #eaf6f6;
+}
+
+.ProfilePic {
+  border-radius: 50%;
+  width: 25%;
+}
+
+.BD {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Sales {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top-container {
+  position: relative;
+  margin: 100px auto 100px auto;
+}
+
+.middle-container {
+  position: relative;
+  margin-left: 100px 0;
+}
+
+.jobs {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.educationhr {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.universitypic {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.educationhs {
+  float: left;
+  margin-right: 30px;
+  width: 25%;;
+}
+
+.Skills {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skillsimg {
+  width: 10%;
+}
+
+.hobbiespic {
+  width: 10%;
+}
+
+.btn {
+  background: #e2e7eb;
+  background-image: -webkit-linear-gradient(top, #e2e7eb, #888c8f);
+  background-image: -moz-linear-gradient(top, #e2e7eb, #888c8f);
+  background-image: -ms-linear-gradient(top, #e2e7eb, #888c8f);
+  background-image: -o-linear-gradient(top, #e2e7eb, #888c8f);
+  background-image: linear-gradient(to bottom, #e2e7eb, #888c8f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6896b3;
+  background-image: -webkit-linear-gradient(top, #6896b3, #3f4c54);
+  background-image: -moz-linear-gradient(top, #6896b3, #3f4c54);
+  background-image: -ms-linear-gradient(top, #6896b3, #3f4c54);
+  background-image: -o-linear-gradient(top, #6896b3, #3f4c54);
+  background-image: linear-gradient(to bottom, #6896b3, #3f4c54);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #d8e3e7;
+  padding: 50px 0 20px;
+}
